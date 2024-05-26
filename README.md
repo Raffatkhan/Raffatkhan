@@ -1,3 +1,5 @@
+![logo](https://github.com/Raffatkhan/Raffatkhan/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Raffat Parveen Khan</h1>
 <h3 align="center">Passionate computer science engineering student ||Final year</h3>
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
@@ -7,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, MongoDB, Express JS, ReactJS, NodeJS**
 
-- 📫 How to reach me **raffatkhan.rk27@gmail.com**
+- 📫 How to reach me **khanraffat.rk27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
